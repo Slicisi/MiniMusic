@@ -57,7 +57,7 @@ For more details on the testing process and the criteria used, please [contact u
 We’d love to hear from you! If you have any issues or suggestions, please contact us:
 
 - 📧 Email: [slicisigh@proton.me](mailto:slicisigh@proton.me)
-- ![](https://img.shields.io/badge/%20-ffffff?logo=discord)Discord: Join our [Discord server]() to chat with the community and report bugs.
+- ![](https://img.shields.io/badge/%20-ffffff?logo=discord)Discord: Join our [Discord server](https://discord.gg/BthH7mqUEm) to chat with the community and report bugs.
 
 ## 📜 License
 
