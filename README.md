@@ -16,7 +16,7 @@ Our social media!
 [![X](https://img.shields.io/badge/%20-000000?logo=x&logoColor=white)](https://x.com/slicisigh)
 [![Facebook](https://img.shields.io/badge/Facebook-0864f7?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562782843464)
 [![Discord](https://img.shields.io/badge/Discord-6983cd?logo=discord&logoColor=white)](https://discord.gg/BthH7mqUEm)
-[![Reddit](https://img.shields.io/badge/share-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/SlicisiGH/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/user/SlicisiGH/)
 
 ## Table of Contents
 - [About](#-about)
