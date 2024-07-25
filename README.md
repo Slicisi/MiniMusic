@@ -25,7 +25,7 @@ Our social media!
 - [Installation](#-installation)
 - [Feedback and Support](#-feedback-and-support)
 - [License](#-license)
-- [Security Disclaimer](#-security-disclaimer)
+- [Security Disclaimer](%EF%B8%8F-security-disclaimer)
 
 ## 🚀 About
 
